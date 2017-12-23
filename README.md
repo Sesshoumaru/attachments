@@ -4,7 +4,7 @@
 
 ## Selenium WebDriver
 
-+ chromedriver 谷歌浏览器(地址：https://github.com/operasoftware/operachromiumdriver/releases)
++ chromedriver 谷歌浏览器(地址：http://chromedriver.storage.googleapis.com/index.html?path=2.33/)
 
 + geckodriver 火狐浏览器(地址：https://github.com/mozilla/geckodriver/releases)
 
